@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/contentModel.xml
+/.idea.Kółko i krzyżyk.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\Jacob_pc\Desktop\kolkokrzyzyk-main\.idea\.idea.Kółko i krzyżyk\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
